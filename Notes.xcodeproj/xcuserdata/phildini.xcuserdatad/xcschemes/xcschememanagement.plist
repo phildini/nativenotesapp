@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Notes-iOs.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Notes.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,21 @@
 			<true/>
 		</dict>
 		<key>692755AE1C9A69E900247E36</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6993B1B81CB1B80A0029E9F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6993B1CB1CB1B80A0029E9F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6993B1D61CB1B80A0029E9F1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
